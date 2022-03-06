@@ -12,6 +12,7 @@
     color: #FF136F;
 }
 
+
 .buy-now-button{
    background-color: #FF136F;
     color: #fff;
@@ -20,4 +21,48 @@
     padding: 9px 25px;
     cursor: pointer;
 
+}
+
+.cat1{
+    background-color: #FF136F;
+}
+.cat2{
+    background-color: aqua;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.category h1{
+    color: white;
+}
+
+.category img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.contractus{
+    height: 300px;
+}
+.contractus h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.form-control{
+    margin-bottom: 10px;
 }
